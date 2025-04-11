@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/116eb77b-1740-4dc5-8cf1-e80b27c15a91)
+![image](https://github.com/user-attachments/assets/34221413-9c35-4a38-8d83-66937c270556)
 
 # 🎯 AI Interview
 
