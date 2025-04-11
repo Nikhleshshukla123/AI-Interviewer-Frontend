@@ -1,11 +1,13 @@
-# 🎯 Interview AI Sathi
+![image](https://github.com/user-attachments/assets/116eb77b-1740-4dc5-8cf1-e80b27c15a91)
 
-**Interview AI Sathi** is an intelligent and responsive web application designed to assist users in preparing for job interviews by simulating AI-powered Q&A sessions. This app offers an intuitive interface, seamless user experience, and is built with modern web technologies.
+# 🎯 AI Interview
+
+**AI Interview** is an intelligent and responsive web application designed to assist users in preparing for job interviews by simulating AI-powered Q&A sessions. This app offers an intuitive interface, seamless user experience, and is built with modern web technologies.
 
 ## 🚀 Live Demo
 
 Check out the live version here:  
-👉 [interview-ai-sathi.vercel.app](https://interview-ai-sathi.vercel.app) 
+👉 [ai-interviewer-frontend-lime.vercel.app](https://ai-interviewer-frontend-lime.vercel.app) 
 
 ---
 
